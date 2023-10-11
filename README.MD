@@ -8,8 +8,3 @@
 
 ## Инфологическая модель
 ![plot](./pics/Infolog.png)
-
-## DDL-scripts
-
-## DML-scripts
-
